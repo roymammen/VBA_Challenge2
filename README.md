@@ -18,6 +18,10 @@
 	
 2.	Results: 
 
+	https://github.com/roymammen/VBA_Challenge2/blob/main/VBA_Challenge_2017.png
+	
+	https://github.com/roymammen/VBA_Challenge2/blob/main/VBA_Challenge_2018.png
+
 	Execution times of the original script and the refactored script. The execution of the script are more or less linear. 
 
 	2017 alone sheet was processed in 1.46 seconds. 
